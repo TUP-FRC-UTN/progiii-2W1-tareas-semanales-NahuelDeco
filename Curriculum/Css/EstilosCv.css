@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    color: grey;
+    font-family: 'sans-serif';
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+}
+
+h2 {
+    color: #2A3C65;
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+img {
+    height: auto;
+    width: 200px;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+ul {
+    list-style-position: inside;
+    list-style: square;
+}
+
+ol {
+    list-style-type: decimal-leading-zero;
+    list-style-position: outside;
+}
+
+em {
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.a{
+    text-align: center;
+}
+.b{
+    text-decoration: underline;
+}
